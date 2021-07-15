@@ -1,0 +1,6 @@
+{
+  "appId": "com.nguoianphu.peokedex",
+  "appName": "peokedex",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
